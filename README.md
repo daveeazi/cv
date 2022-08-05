@@ -6,17 +6,17 @@ This is a preview of my personal website using HTML, CSS and JAVASCRIPT.
 ### Built with
 * HTML
 * CSS
-* JAVASCRIPT
-* ATOM 
+* Javascript
+* Atom 
 
 ### Procedure to clone project
 * Open your terminal
-* Type git clone https://github.com/daveeazi/portfolio_website.git
+* Type git clone https://github.com/daveeazi/cv.git
 * Type cd portfolio_website to change directory to the folder of the project
 * Run the project in your local machine
 
 ### Project link
-[My Porfolio Website](https://daveeazi.github.io/portfolio_website/index.html)
+`curently unavailable`
 
 ### 👤 **Author**
 
@@ -26,7 +26,7 @@ This is a preview of my personal website using HTML, CSS and JAVASCRIPT.
 
 ### Contributing
 
-Contributions, issues, and feature requests are welcome!
+Contributions, issues, and feature requests are welcomed!
 
 ### Show your support
 
