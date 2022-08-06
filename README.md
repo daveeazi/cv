@@ -12,7 +12,7 @@ This is a preview of my personal website using HTML, CSS and JAVASCRIPT.
 ### Procedure to clone project
 * Open your terminal
 * Type git clone https://github.com/daveeazi/cv.git
-* Type cd portfolio_website to change directory to the folder of the project
+* Type cd cv to change directory to the folder of the project
 * Run the project in your local machine
 
 ### Project link
