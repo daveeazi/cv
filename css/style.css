@@ -1,11 +1,11 @@
 .one{
-  background-color: #D4D925;
+  background-color: #BDF2D5;
   position: relative;
   padding-top: 126px;
 }
 
 .two{
-  background-color: #F9F9C5;
+  background-color: #F2F2F2;
 }
 
 .three{
@@ -18,32 +18,67 @@ body{
   font-family: 'Merriweather', serif;
 }
 
+.header1{
+  color: black;
+  font-weight: bold;
+}
+
 h1{
-  margin: 50px auto 0 auto;
   font-family: 'Sacramento', cursive;
   font-size: 5.625rem;
+  margin: 15px auto 0 auto;
 }
+
 h2{
+  color: #16003B;
   font-family: 'Montserrat', sans-serif;
   font-size: 2.5rem;
+  font-weight: normal;
 }
+
 h3{
   font-family: 'Montserrat', sans-serif;
+  color: #16003B;
+}
+
+a{
+  color: #16003B;
 }
 
 .top-cloud{
   position: absolute;
-  right: 300px;
+  right: 280px;
   top: 50px;
 }
 
 .buttom-cloud{
   position: absolute;
-  left: 300px;
-  bottom: 300px;
+  left: 200px;
+  bottom: 350px;
 }
 
 .my-image{
-  max-width: 20%;
-  max-height: 20%;
+  max-width: 30%;
+}
+
+.mountain{
+  max-width: 250px;
+  margin-bottom: 20px;
+  margin-top: 55px;
+}
+
+.skill-row{
+  max-width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.computer{
+  width: 25%;
+  float: left;
+}
+
+.technical-writing{
+  width: 25%;
 }
