@@ -31,7 +31,7 @@ a:hover{
 hr{
   border: dotted #76BA99 5px;
   border-bottom: none;
-  width: 4%;
+  width: 9%;
   margin: 100px auto 100px auto;
 }
 
@@ -46,6 +46,23 @@ p{
   line-height: 2;
 }
 
+.alx{
+  margin: inherit;
+}
+
+.alx:hover{
+  color: blue;
+}
+
+.horizontal-rule-1{
+  margin-top: 0;
+  margin-bottom: 40px;
+}
+
+.horizontal-rule-2{
+  margin-bottom: 3px;
+}
+
 .one{
   background-color: #A2CDCD;
   position: relative;
@@ -54,7 +71,8 @@ p{
 
 .two{
   background-color: #F6FBF4;
-  margin: 100px auto;
+  margin: 0 auto;
+  padding-bottom: 10px;
 }
 
 .three{
@@ -91,6 +109,7 @@ p{
 .mountain{
   max-width: 250px;
   margin-top: 110px;
+  margin-bottom: 4px;
 }
 
 .skill-row{
@@ -127,12 +146,12 @@ p{
 }
 
 .copyright{
-  color: #EAF6F6;
+  color: #black;
   font-size: 0.75rem;
   padding: 20px 0;
 }
 
-.btn {
+.btn{
   background: #11cdd4;
   background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
   background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
@@ -142,14 +161,14 @@ p{
   -webkit-border-radius: 8;
   -moz-border-radius: 8;
   border-radius: 8px;
-  font-family: font-family: 'Montserrat', sans-serif;;
+  font-family: 'Montserrat', sans-serif;;
   color: #ffffff;
   font-size: 20px;
   padding: 10px 20px 10px 20px;
   text-decoration: none;
 }
 
-.btn:hover {
+.btn:hover{
   background: #30e3cb;
   background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ed);
   background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ed);
