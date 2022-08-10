@@ -157,9 +157,13 @@ p{
   margin: auto;
 }
 
+.telephone{
+  margin-right: 15px;
+}
+
 .contact-message{
   width: 40%;
-  margin: 40px auto 40px;
+  margin: 25px auto 40px;
 }
 
 .copyright{
