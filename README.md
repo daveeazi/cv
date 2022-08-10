@@ -16,7 +16,7 @@ This is a preview of my personal website using HTML, CSS and JAVASCRIPT.
 * Run the project in your local machine
 
 ### Project link
-`curently unavailable`
+https://daveeazi.github.io/cv/
 
 ### 👤 **Author**
 
