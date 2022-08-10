@@ -82,6 +82,17 @@ p{
   padding-bottom: 20px;
 }
 
+.me{
+  max-width: 23.5%;
+  float: left;
+  margin-left: 30px;
+  margin-top: -55px;
+}
+
+.hey{
+  padding-left: 20%;
+}
+
 .header1{
   color: black;
   font-weight: bold;
@@ -92,14 +103,14 @@ p{
 
 .top-cloud{
   position: absolute;
-  right: 280px;
+  right: 185px;
   top: 40px;
 }
 
 .buttom-cloud{
   position: absolute;
-  left: 200px;
-  bottom: 350px;
+  left: 350px;
+  bottom: 400px;
 }
 
 .my-image{
@@ -107,7 +118,7 @@ p{
 }
 
 .mountain{
-  max-width: 250px;
+  max-width: 200px;
   margin-top: 55px;
   margin-bottom: 3px;
 }
@@ -133,6 +144,12 @@ p{
     .(whatever class name you give to the <p> tag) {
       clear: left;
   }*/
+}
+
+.time-management{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
 }
 
 .introduction{
