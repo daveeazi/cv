@@ -108,8 +108,8 @@ p{
 
 .mountain{
   max-width: 250px;
-  margin-top: 110px;
-  margin-bottom: 4px;
+  margin-top: 55px;
+  margin-bottom: 3px;
 }
 
 .skill-row{
@@ -146,7 +146,7 @@ p{
 }
 
 .copyright{
-  color: #black;
+  color: #100F0F;
   font-size: 0.75rem;
   padding: 20px 0;
 }
